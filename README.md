@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repository contains source code of examples from the book *Web Scraping with Python*, published by Packt Publishing. 
 Examples have been tested with Python 2.7 and depend on: 
 
@@ -15,3 +16,7 @@ Examples have been tested with Python 2.7 and depend on:
  * [scrapely](https://github.com/scrapy/scrapely) (Ch 8)
 
 This examples will break in future as websites change and dependencies are updated, so [bug reports and patches](https://bitbucket.org/wswp/code/issues?status=new&status=open) are welcome.
+=======
+# wswp
+web scraping with python
+>>>>>>> 7467f022a8b95f7f1c7121d8a11dace13959bd12
